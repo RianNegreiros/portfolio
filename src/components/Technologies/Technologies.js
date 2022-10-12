@@ -17,7 +17,12 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            ReactJs
+            ReactJs <br />
+            Typescript <br />
+            Bootstrap <br />
+            Tailwind UI <br />
+            Razor <br />
+            Haml
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -27,7 +32,16 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            ReactJs
+            Ruby On Rails <br />
+            Sidekiq <br />
+            .NET Core<br />
+            Entity Framework Core <br />
+            RabbitMQ <br />
+            MassTransit <br />
+            Ocelot <br />
+            PostgreSQL <br />
+            MongoDB <br />
+            Redis <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
