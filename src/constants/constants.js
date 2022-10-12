@@ -62,4 +62,22 @@ export const projects = [
     visit: 'https://dev.azure.com/riannegreiros/EcommerceMicroservices/_build',
     id: 6,
   },
+  {
+    title: 'Todo app',
+    description: "Frontend Mentor - Todo app solution",
+    image: '/images/todo-list.png',
+    tags: ['ReactJs', 'SASS'],
+    source: 'https://github.com/RianNegreiros/todo-app-main-frontend-mentor',
+    visit: 'https://todo-app-main-frontend-mentor.vercel.app/',
+    id: 7,
+  },
+  {
+    title: 'IP Tracker',
+    description: "Frontend Mentor - IP address tracker solution",
+    image: '/images/ip-tracker.png',
+    tags: ['ReactJs', 'SASS', 'Axios'],
+    source: 'https://github.com/RianNegreiros/ip-address-tracker-frontend-mentor',
+    visit: 'https://ip-address-tracker-master-eight.vercel.app/',
+    id: 7,
+  },
 ];
