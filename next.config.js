@@ -1,3 +1,0 @@
-const nextConfig={
-  basePath: '/portfolio'
-}

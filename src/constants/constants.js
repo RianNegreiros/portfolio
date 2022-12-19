@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Lodging App',
     description:"A application for short-term rentals like Airbnb",
-    image: '/images/lodging.png',
+    image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/lodging.png?raw=true',
     tags: ['Ruby on Rails', 'Tailwind UI', 'PostgresSQL'],
     source: 'https://github.com/RianNegreiros/lodging_app',
     visit: 'https://lodging-app.herokuapp.com/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Rails social network',
     description: "A social network using Ruby on Rails",
-      image: '/images/rails-social-network.png',
+      image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/rails-social-network.png?raw=true',
       tags: ['Ruby on Rails', 'Bootstrap', 'jQuery'],
     source: 'https://github.com/RianNegreiros/rails_social_network',
     visit: 'https://social-network-ror.herokuapp.com/',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Instagram clone',
     description: "A instagram clone using Ruby on Rails",
-    image: '/images/rails-instagram-clone.png',
+    image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/rails-instagram-clone.png?raw=true',
     tags: ['Ruby on Rails', 'Redis', 'PostgresSQL'],
     source: 'https://github.com/RianNegreiros/rails-instagram-clone',
     visit: 'https://ror-instagram-clone.herokuapp.com/',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Overtime',
     description: "Enterprise application to manage employees overtimes",
-    image: '/images/overtime.png',
+    image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/overtime.png?raw=true',
     tags: ['Ruby on Rails', 'Bootstrap'],
     source: 'https://github.com/RianNegreiros/overtime',
     visit: 'https://overtime-ror.herokuapp.com/',
@@ -47,7 +47,7 @@ export const projects = [
   {
     title: 'Social network',
     description: "Full-Stack application to users share their activities, and follow activities from others",
-    image: '/images/dotnet-react-social-network.png',
+    image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/dotnet-react-social-network.png?raw=true',
     tags: ['Reactjs', 'Typescript', '.NET Core', 'PostgreSQL'],
     source: 'https://github.com/RianNegreiros/dotnet-react-social-network',
     visit: 'https://dotnet-react-social-network.herokuapp.com/',
@@ -56,7 +56,7 @@ export const projects = [
   {
     title: 'E-commerce Microservices',
     description: "E-commerce Microservices demo application deployed on Kubernetes",
-    image: '/images/ecommerce-microservices.png',
+    image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/ecommerce-microservices.png?raw=true',
     tags: ['.NET Core', 'Bootstrap', 'RabbitMQ'],
     source: 'https://github.com/RianNegreiros/EcommerceMicroservices',
     visit: 'https://dev.azure.com/riannegreiros/EcommerceMicroservices/_build',
@@ -65,7 +65,7 @@ export const projects = [
   {
     title: 'Todo app',
     description: "Frontend Mentor - Todo app solution",
-    image: '/images/todo-list.png',
+    image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/todo-list.png?raw=true',
     tags: ['ReactJs', 'SASS'],
     source: 'https://github.com/RianNegreiros/todo-app-main-frontend-mentor',
     visit: 'https://todo-app-main-frontend-mentor.vercel.app/',
@@ -74,7 +74,7 @@ export const projects = [
   {
     title: 'IP Tracker',
     description: "Frontend Mentor - IP address tracker solution",
-    image: '/images/ip-tracker.png',
+    image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/ip-tracker.png?raw=true',
     tags: ['ReactJs', 'SASS', 'Axios'],
     source: 'https://github.com/RianNegreiros/ip-address-tracker-frontend-mentor',
     visit: 'https://ip-address-tracker-master-eight.vercel.app/',
