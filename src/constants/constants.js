@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Marketplace App',
     description: "A marketplace where creators can sell their digital content",
-      image: '/images/rails-ecommerce.png',
+      image: 'https://github.com/RianNegreiros/portfolio/blob/main/public/images/rails-ecommerce.png?raw=true',
       tags: ['Ruby on Rails', 'Tailwind UI', 'PostgresSQL', 'Redis'],
     source: 'https://github.com/RianNegreiros/rails_ecommerce',
     visit: 'https://ror-marketplace.herokuapp.com/',
